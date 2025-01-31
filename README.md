@@ -12,7 +12,7 @@
 <br>
 
 ## ┣ Skills 
-# <--Master │ Trying to learn-->
+### <--Master │ Trying to learn-->
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=java,html,css,mysql,js,python,c,cpp" />
 
 ## ┣ Activities
